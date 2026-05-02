@@ -1,0 +1,13 @@
+{
+  "AppTitle": "Insightful HUD v1.0",
+  "Shortcuts": [
+    {
+      "Name": "Copy",
+      "KeyCombination": "Ctrl + C"
+    },
+    {
+      "Name": "Paste",
+      "KeyCombination": "Ctrl + V"
+    }
+  ]
+}
