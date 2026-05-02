@@ -1,0 +1,14 @@
+{
+  "AppTitle": "Task Manager",
+  "AppSrc": "C:\\WINDOWS\\system32\\Taskmgr.exe",
+  "Shortcuts": [
+    {
+      "Name": "Copy",
+      "KeyCombination": "Ctrl + C"
+    },
+    {
+      "Name": "Paste",
+      "KeyCombination": "Ctrl + V"
+    }
+  ]
+}

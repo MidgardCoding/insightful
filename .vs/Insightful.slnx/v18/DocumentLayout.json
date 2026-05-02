@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\backend\\activewindowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\backend\\activewindowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActiveWindowHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\Backend\\ActiveWindowHelper.cs",
+              "RelativeDocumentMoniker": "Insightful\\Backend\\ActiveWindowHelper.cs",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\Backend\\ActiveWindowHelper.cs",
+              "RelativeToolTip": "Insightful\\Backend\\ActiveWindowHelper.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAASwFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T18:02:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Insightful\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml",
+              "RelativeToolTip": "Insightful\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-02T17:34:45.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\package.json",
+              "RelativeDocumentMoniker": "Insightful\\package.json",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\package.json",
+              "RelativeToolTip": "Insightful\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T16:38:38.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Insightful\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Insightful\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:40:22.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
