@@ -2,7 +2,7 @@
   <h1>Insightful 🧠</h1>
   <p>A minimal, glassmorphic HUD that shows you the <i>right information at the right time</i> - right above your active application.</p>
   <br>
-  <img width="441" height="249" alt="Zrzut ekranu 2026-05-02 203649" src="https://github.com/user-attachments/assets/82bee84a-2219-4f35-a58b-d5874f5e9d29" />
+  <img width="843" height="474" alt="Zrzut ekranu 2026-05-04 192950" src="https://github.com/user-attachments/assets/a10190b6-17fa-42e3-856e-6a4758b84515" />
   <br>
   <b>Insightful</b> is a lightweight Windows overlay built with <b>WPF</b> and <b>.NET</b>.
   Instead of guessing what an app does or digging through menus, Insightful displays custom “Insight Packages” - plain JSON files created by you - with shortcuts, notes, system usage stats and a fully themable appearance!
