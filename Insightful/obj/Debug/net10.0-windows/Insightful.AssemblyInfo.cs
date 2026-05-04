@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Insightful")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+465e37a351f9515c9987c801066dce53a305fcaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Insightful")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Insightful")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
