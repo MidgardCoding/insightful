@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\nonco\\source\\repos\\Insightful\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\view\\notewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\view\\notewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\view\\notewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\view\\notewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\backend\\activewindowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\backend\\activewindowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\backend\\hudconfigloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\backend\\hudconfigloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\model\\windowdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\model\\windowdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\model\\appnotesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\model\\appnotesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\model\\packagecreatordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\model\\packagecreatordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\view\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\view\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\view\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\view\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,51 +78,205 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\App.xaml",
+              "RelativeDocumentMoniker": "Insightful\\App.xaml",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\App.xaml",
+              "RelativeToolTip": "Insightful\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T14:26:45.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Styles\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "Insightful\\Styles\\ButtonStyles.xaml",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Styles\\ButtonStyles.xaml",
+              "RelativeToolTip": "Insightful\\Styles\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T14:16:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\NoteWindow.xaml",
+              "RelativeDocumentMoniker": "Insightful\\View\\NoteWindow.xaml",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\NoteWindow.xaml",
+              "RelativeToolTip": "Insightful\\View\\NoteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T10:17:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\NoteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Insightful\\View\\NoteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\NoteWindow.xaml.cs",
+              "RelativeToolTip": "Insightful\\View\\NoteWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:23:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Insightful\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Insightful\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T07:37:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Insightful\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Insightful\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA8wDIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T07:41:36.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Insightful\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Insightful\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:51:06.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppNotesData.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Model\\AppNotesData.cs",
+              "RelativeDocumentMoniker": "Insightful\\Model\\AppNotesData.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Model\\AppNotesData.cs",
+              "RelativeToolTip": "Insightful\\Model\\AppNotesData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T07:40:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ActiveWindowHelper.cs",
               "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Backend\\ActiveWindowHelper.cs",
               "RelativeDocumentMoniker": "Insightful\\Backend\\ActiveWindowHelper.cs",
               "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Backend\\ActiveWindowHelper.cs",
               "RelativeToolTip": "Insightful\\Backend\\ActiveWindowHelper.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAASwFoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAUwFoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T18:02:39.715Z"
+              "WhenOpened": "2026-05-02T18:02:39.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Insightful\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\MainWindow.xaml",
-              "RelativeToolTip": "Insightful\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-02T17:34:45.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\package.json",
               "RelativeDocumentMoniker": "Insightful\\package.json",
               "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\package.json",
               "RelativeToolTip": "Insightful\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-02T16:38:38.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Insightful\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Insightful\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAABuAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Insightful\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\AssemblyInfo.cs",
+              "RelativeToolTip": "Insightful\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T12:40:22.812Z"
+              "WhenOpened": "2026-05-04T09:41:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HudConfigLoader.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Backend\\HudConfigLoader.cs",
+              "RelativeDocumentMoniker": "Insightful\\Backend\\HudConfigLoader.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Backend\\HudConfigLoader.cs",
+              "RelativeToolTip": "Insightful\\Backend\\HudConfigLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T07:42:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PackageCreatorData.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Model\\PackageCreatorData.cs",
+              "RelativeDocumentMoniker": "Insightful\\Model\\PackageCreatorData.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Model\\PackageCreatorData.cs",
+              "RelativeToolTip": "Insightful\\Model\\PackageCreatorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:52:42.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowData.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Model\\WindowData.cs",
+              "RelativeDocumentMoniker": "Insightful\\Model\\WindowData.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Model\\WindowData.cs",
+              "RelativeToolTip": "Insightful\\Model\\WindowData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:51:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Insightful\\View\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "Insightful\\View\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:51:09.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "Insightful\\View\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\SettingsWindow.xaml",
+              "RelativeToolTip": "Insightful\\View\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-03T09:39:35.173Z",
+              "EditorCaption": ""
             }
           ]
         }

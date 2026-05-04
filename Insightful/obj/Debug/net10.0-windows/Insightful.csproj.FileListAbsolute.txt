@@ -2,10 +2,8 @@ C:\Users\nonco\source\repos\Insightful\Insightful\bin\Debug\net10.0-windows\Insi
 C:\Users\nonco\source\repos\Insightful\Insightful\bin\Debug\net10.0-windows\Insightful.deps.json
 C:\Users\nonco\source\repos\Insightful\Insightful\bin\Debug\net10.0-windows\Insightful.runtimeconfig.json
 C:\Users\nonco\source\repos\Insightful\Insightful\bin\Debug\net10.0-windows\Insightful.dll
-C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\Insightful_MarkupCompile.cache
-C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\MainWindow.baml
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\Insightful.g.resources
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\Insightful.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\Insightful.AssemblyInfoInputs.cache
@@ -25,3 +23,11 @@ C:\Users\nonco\source\repos\Insightful\Insightful\bin\Debug\net10.0-windows\Mate
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\View\SettingsWindow.g.cs
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\Insightful_MarkupCompile.lref
 C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\View\SettingsWindow.baml
+c:\Users\nonco\source\repos\Insightful\Insightful\bin\Debug\net10.0-windows\package.json
+c:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\Insightful.sourcelink.json
+C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\View\MainWindow.baml
+C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\View\MainWindow.g.cs
+C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\View\NoteWindow.g.cs
+C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\View\NoteWindow.baml
+C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\Styles\ButtonStyles.baml
+C:\Users\nonco\source\repos\Insightful\Insightful\obj\Debug\net10.0-windows\App.baml
