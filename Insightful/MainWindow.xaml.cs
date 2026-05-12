@@ -18,13 +18,41 @@ namespace Insightful
     /// </summary>
     public partial class MainWindow : Window
     {
+        private readonly ActiveWindowMonitor _monitor;
+        private readonly AppRegistry _registry;
+
         public MainWindow()
         {
             InitializeComponent();
 
             // Load the data and set it as the DataContext for the window
-            var windowData = LoadDataFromJson("package.json");
-            this.DataContext = windowData;
+            string jsonPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "package.json");
+            _registry = new AppRegistry();
+            try
+            {
+                _registry.LoadFromFile(jsonPath);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Nie udało się załadować package.json: {ex.Message}");
+            }
+
+            _monitor = new ActiveWindowMonitor();
+            _monitor.ActiveWindowChanged += Monitor_ActiveWindowChanged;
+
+            // Inicialne sprawdzenie aktywnego okna (opcjonalne)
+            var initial = ActiveWindowMonitor.GetProcessPathFromHwnd(GetForegroundWindow());
+            var entry = initial != null ? _registry.FindByExePath(initial) : null;
+            if (entry != null)
+            {
+                AppTitle.Text = entry.AppTitle ?? "(no title)";
+                Shortcuts.ItemsSource = entry.Shortcuts ?? new List<Shortcut>();
+            }
+            else
+            {
+                AppTitle.Text = "(not found)";
+                Shortcuts.ItemsSource = null;
+            }
         }
 
         /// <summary>
@@ -88,6 +116,23 @@ namespace Insightful
                 };
             }
         }
+        private void Monitor_ActiveWindowChanged(object? sender, ActiveWindowChangedEventArgs e)
+        {
+            // UI update na wątku UI
+            Dispatcher.Invoke(() =>
+            {
+                UpdateUI(e.ExePath);
+            });
+        }
+
+        protected override void OnClosed(EventArgs e)
+        {
+            base.OnClosed(e);
+            _monitor.Dispose();
+        }
+
+        [System.Runtime.InteropServices.DllImport("user32.dll")]
+        private static extern IntPtr GetForegroundWindow();
 
         private void SettingsBorder_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
         {

@@ -1,14 +1,422 @@
 {
-  "AppTitle": "Task Manager",
-  "AppSrc": "C:\\WINDOWS\\system32\\Taskmgr.exe",
-  "Shortcuts": [
+  "apps": [
     {
-      "Name": "Copy",
-      "KeyCombination": "Ctrl + C"
+      "AppTitle": "Task Manager",
+      "AppSrc": "C:\\WINDOWS\\system32\\Taskmgr.exe",
+      "Shortcuts": [
+        {
+          "Name": "Open",
+          "KeyCombination": "Ctrl + Shift + Esc"
+        },
+        {
+          "Name": "Switch to Details",
+          "KeyCombination": "Ctrl + Tab"
+        },
+        {
+          "Name": "End Task",
+          "KeyCombination": "Del"
+        },
+        {
+          "Name": "Search process",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Process and performance view",
+          "NoteContent": "Monitor CPU, memory, disk and network usage in real time."
+        },
+        {
+          "NoteTitle": "Manage startup items",
+          "NoteContent": "Enable/disable startup apps and see their impact on boot time."
+        }
+      ]
     },
     {
-      "Name": "Paste",
-      "KeyCombination": "Ctrl + V"
+      "AppTitle": "File Explorer",
+      "AppSrc": "C:\\WINDOWS\\explorer.exe",
+      "Shortcuts": [
+        {
+          "Name": "Open new window",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "Go up one level",
+          "KeyCombination": "Alt + ↑"
+        },
+        {
+          "Name": "Refresh",
+          "KeyCombination": "F5"
+        },
+        {
+          "Name": "Rename",
+          "KeyCombination": "F2"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "File and folder navigation",
+          "NoteContent": "Manage files, access drives, network locations and quick access."
+        },
+        {
+          "NoteTitle": "Preview and details",
+          "NoteContent": "Use preview pane and details pane to inspect files quickly."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Settings",
+      "AppSrc": "ms-settings:",
+      "Shortcuts": [
+        {
+          "Name": "Open Settings",
+          "KeyCombination": "Win + I"
+        },
+        {
+          "Name": "Search settings",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "System configuration hub",
+          "NoteContent": "Adjust system, devices, network, personalization and update options."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Control Panel",
+      "AppSrc": "C:\\WINDOWS\\System32\\control.exe",
+      "Shortcuts": [
+        {
+          "Name": "Open Control Panel",
+          "KeyCombination": "Win + R, control"
+        },
+        {
+          "Name": "Search",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Legacy system tools",
+          "NoteContent": "Access classic administrative tools and detailed configuration options."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Edge",
+      "AppSrc": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "Shortcuts": [
+        {
+          "Name": "New window",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "New tab",
+          "KeyCombination": "Ctrl + T"
+        },
+        {
+          "Name": "Reopen closed tab",
+          "KeyCombination": "Ctrl + Shift + T"
+        },
+        {
+          "Name": "Close tab",
+          "KeyCombination": "Ctrl + W"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Modern web browser",
+          "NoteContent": "Chromium-based browser with collections, profiles and syncing."
+        },
+        {
+          "NoteTitle": "Privacy and performance",
+          "NoteContent": "Tracking prevention, sleeping tabs and built-in PDF reader."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Google Chrome",
+      "AppSrc": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "Shortcuts": [
+        {
+          "Name": "New tab",
+          "KeyCombination": "Ctrl + T"
+        },
+        {
+          "Name": "Incognito",
+          "KeyCombination": "Ctrl + Shift + N"
+        },
+        {
+          "Name": "Open DevTools",
+          "KeyCombination": "Ctrl + Shift + I"
+        },
+        {
+          "Name": "Close tab",
+          "KeyCombination": "Ctrl + W"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Widely used browser",
+          "NoteContent": "Fast browsing, extensive extensions and profile syncing."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Office Word",
+      "AppSrc": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+      "Shortcuts": [
+        {
+          "Name": "Save",
+          "KeyCombination": "Ctrl + S"
+        },
+        {
+          "Name": "Bold",
+          "KeyCombination": "Ctrl + B"
+        },
+        {
+          "Name": "Find",
+          "KeyCombination": "Ctrl + F"
+        },
+        {
+          "Name": "Close",
+          "KeyCombination": "Alt + F4"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Feature-rich text editor",
+          "NoteContent": "Advanced formatting, styles, templates and collaboration tools."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Office Excel",
+      "AppSrc": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+      "Shortcuts": [
+        {
+          "Name": "New workbook",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "Autosum",
+          "KeyCombination": "Alt + ="
+        },
+        {
+          "Name": "Insert row",
+          "KeyCombination": "Ctrl + Shift + +"
+        },
+        {
+          "Name": "Find",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Spreadsheet calculations",
+          "NoteContent": "Formulas, pivot tables, charts and data analysis features."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Outlook",
+      "AppSrc": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE",
+      "Shortcuts": [
+        {
+          "Name": "New email",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "Send",
+          "KeyCombination": "Ctrl + Enter"
+        },
+        {
+          "Name": "Reply",
+          "KeyCombination": "Ctrl + R"
+        },
+        {
+          "Name": "Search mail",
+          "KeyCombination": "Ctrl + E"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Email and calendar client",
+          "NoteContent": "Manage email, calendar, contacts and tasks in one app."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Windows Terminal",
+      "AppSrc": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\WindowsTerminal.exe",
+      "Shortcuts": [
+        {
+          "Name": "New tab",
+          "KeyCombination": "Ctrl + Shift + T"
+        },
+        {
+          "Name": "Split pane",
+          "KeyCombination": "Alt + Shift + D"
+        },
+        {
+          "Name": "Open settings",
+          "KeyCombination": "Ctrl + ,"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Tabbed command-line interface",
+          "NoteContent": "Supports PowerShell, Command Prompt, WSL and customization."
+        }
+      ]
+    },
+    {
+      "AppTitle": "PowerShell",
+      "AppSrc": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "Shortcuts": [
+        {
+          "Name": "Run as admin",
+          "KeyCombination": "Win + X, A"
+        },
+        {
+          "Name": "Autocomplete",
+          "KeyCombination": "Tab"
+        },
+        {
+          "Name": "Clear screen",
+          "KeyCombination": "Ctrl + L"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Advanced scripting shell",
+          "NoteContent": "Cmdlets, scripting, automation and system administration."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Command Prompt",
+      "AppSrc": "C:\\WINDOWS\\system32\\cmd.exe",
+      "Shortcuts": [
+        {
+          "Name": "Run as admin",
+          "KeyCombination": "Win + X, A"
+        },
+        {
+          "Name": "Paste",
+          "KeyCombination": "Ctrl + V"
+        },
+        {
+          "Name": "Autocomplete",
+          "KeyCombination": "Tab"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Classic console",
+          "NoteContent": "Basic command-line utilities and legacy scripts support."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Snipping Tool",
+      "AppSrc": "C:\\WINDOWS\\system32\\SnippingTool.exe",
+      "Shortcuts": [
+        {
+          "Name": "Open Snipping Tool",
+          "KeyCombination": "Win + Shift + S"
+        },
+        {
+          "Name": "Save screenshot",
+          "KeyCombination": "Ctrl + S"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Quick screenshots",
+          "NoteContent": "Capture rectangular, freeform, window or full-screen snips."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Calculator",
+      "AppSrc": "C:\\WINDOWS\\system32\\calc.exe",
+      "Shortcuts": [
+        {
+          "Name": "Open Calculator",
+          "KeyCombination": "Win + R, calc"
+        },
+        {
+          "Name": "Switch mode",
+          "KeyCombination": "Alt + 1/2/3"
+        },
+        {
+          "Name": "Clear",
+          "KeyCombination": "Esc"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Basic and scientific modes",
+          "NoteContent": "Standard, scientific, programmer and unit conversion tools."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Windows Photos",
+      "AppSrc": "C:\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_8wekyb3d8bbwe\\PhotosApp.exe",
+      "Shortcuts": [
+        {
+          "Name": "Open photo",
+          "KeyCombination": "Enter"
+        },
+        {
+          "Name": "Delete photo",
+          "KeyCombination": "Del"
+        },
+        {
+          "Name": "Rotate",
+          "KeyCombination": "Ctrl + R"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "Image viewing and minor edits",
+          "NoteContent": "Browse, organize, crop and apply quick filters to photos."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Windows Update",
+      "AppSrc": "ms-settings:windowsupdate",
+      "Shortcuts": [
+        {
+          "Name": "Open Windows Update",
+          "KeyCombination": "Win + I, Update & Security"
+        },
+        {
+          "Name": "Check for updates",
+          "KeyCombination": "Alt + C"
+        }
+      ],
+      "AppNotes": [
+        {
+          "NoteTitle": "System updates manager",
+          "NoteContent": "Download and install OS updates, drivers and feature upgrades."
+        }
+      ]
     }
-  ]
+  ],
+  "default": {
+    "AppTitle": "No HUD for this application",
+    "AppSrc": "",
+    "Shortcuts": [
+      {
+        "Name": "Copy",
+        "KeyCombination": "Ctrl+C"
+      }
+    ]
+  }
 }

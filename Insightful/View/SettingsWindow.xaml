@@ -3,16 +3,17 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialIcons="clr-namespace:Material.Icons.WPF;assembly=Material.Icons.WPF"
         xmlns:local="clr-namespace:Insightful.View"
         mc:Ignorable="d" WindowStyle="None" Background="Transparent" AllowsTransparency="True"
         Title="SettingsWindow" Height="450" Width="800">
     <Window.Resources>
-        <SolidColorBrush x:Key="GlassBackground" Color="#AA202020"/>
+        <SolidColorBrush x:Key="GlassBackground" Color="WhiteSmoke"/>
         <SolidColorBrush x:Key="BorderHighlight" Color="#44FFFFFF"/>
         <Style x:Key="Header" TargetType="TextBlock">
-            <Setter Property="FontSize" Value="18"/>
-            <Setter Property="FontWeight" Value="Bold"/>
-            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="32"/>
+            <Setter Property="FontWeight" Value="Light"/>
+            <Setter Property="Foreground" Value="DarkGray"/>
             <Setter Property="Margin" Value="0,0,0,10"/>
         </Style>
     </Window.Resources>
@@ -22,7 +23,27 @@
         BorderThickness="1"
         Padding="20">
         <Grid>
-        
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid VerticalAlignment="Top">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="32"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <materialIcons:MaterialIcon Kind="Package" Grid.Column="0" Width="32" Height="32" Foreground="DarkGray" Margin="0,5,0,0"/>
+                    <TextBlock Text="Package Manager" Grid.Column="1" Style="{StaticResource Header}"  Margin="10,0,0,0"/>
+                </Grid>
+                <Grid Margin="0,29,0,337" Grid.RowSpan="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="Add, create or delete Insight Packages."></TextBlock>
+                </Grid>
+            </Grid>
         </Grid>
     </Border>
 </Window>
