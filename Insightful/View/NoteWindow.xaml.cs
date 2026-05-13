@@ -34,7 +34,11 @@ namespace Insightful.View
             this.Close();
         }
 
+<<<<<<< Updated upstream
         private void Window_MouseDown(object sender, MouseButtonEventArgs e)
+=======
+        private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+>>>>>>> Stashed changes
         {
             DragMove();
         }

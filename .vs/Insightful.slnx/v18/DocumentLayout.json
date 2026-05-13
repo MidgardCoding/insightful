@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nonco\\source\\repos\\Insightful\\",
+  "WorkspaceRootPath": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -36,6 +37,21 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\source\\repos\\insightful\\insightful\\backend\\activewindowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|c:\\users\\nonco\\documents\\github\\insightful\\insightful\\backend\\activewindowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{57031661-082D-3011-39AD-2FAFF9639EB5}|Insightful\\Insightful.csproj|solutionrelative:insightful\\backend\\activewindowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -78,18 +94,40 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\App.xaml",
               "RelativeDocumentMoniker": "Insightful\\App.xaml",
               "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\App.xaml",
               "RelativeToolTip": "Insightful\\App.xaml",
+=======
+              "DocumentIndex": 3,
+              "Title": "ActiveWindowHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\Backend\\ActiveWindowHelper.cs",
+              "RelativeDocumentMoniker": "Insightful\\Backend\\ActiveWindowHelper.cs",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\Backend\\ActiveWindowHelper.cs",
+              "RelativeToolTip": "Insightful\\Backend\\ActiveWindowHelper.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAASwFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T18:02:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Insightful\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml",
+              "RelativeToolTip": "Insightful\\MainWindow.xaml",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-04T14:26:45.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
               "Title": "ButtonStyles.xaml",
               "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\Styles\\ButtonStyles.xaml",
@@ -110,17 +148,37 @@
               "RelativeToolTip": "Insightful\\View\\NoteWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-04T10:17:14.113Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\package.json",
+              "RelativeDocumentMoniker": "Insightful\\package.json",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\package.json",
+              "RelativeToolTip": "Insightful\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T16:38:38.251Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
               "Title": "NoteWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\NoteWindow.xaml.cs",
               "RelativeDocumentMoniker": "Insightful\\View\\NoteWindow.xaml.cs",
               "ToolTip": "C:\\Users\\nonco\\source\\repos\\Insightful\\Insightful\\View\\NoteWindow.xaml.cs",
               "RelativeToolTip": "Insightful\\View\\NoteWindow.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+=======
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Insightful\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Insightful\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAABuAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T10:23:23.299Z",
               "EditorCaption": ""

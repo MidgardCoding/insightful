@@ -5,11 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:materialIcons="clr-namespace:Material.Icons.WPF;assembly=Material.Icons.WPF"
         xmlns:local="clr-namespace:Insightful.View"
+        xmlns:usercontrols="clr-namespace:Insightful.View.UserControls;assembly=Insightful"
         mc:Ignorable="d" WindowStyle="None" Background="Transparent" AllowsTransparency="True"
         Title="SettingsWindow" Height="450" Width="800">
     <Window.Resources>
         <SolidColorBrush x:Key="GlassBackground" Color="WhiteSmoke"/>
         <SolidColorBrush x:Key="BorderHighlight" Color="#44FFFFFF"/>
+<<<<<<< Updated upstream
         <Style x:Key="Header" TargetType="TextBlock">
             <Setter Property="FontSize" Value="32"/>
             <Setter Property="FontWeight" Value="Light"/>
@@ -45,5 +47,115 @@
                 </Grid>
             </Grid>
         </Grid>
+=======
+        <Style x:Key="CreatorSectionStyle" TargetType="Border">
+            <Setter Property="Background" Value="#22FFFFFF"/>
+            <Setter Property="CornerRadius" Value="8"/>
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="BorderBrush" Value="#33FFFFFF"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+        <Style x:Key="NoteCardStyle" TargetType="Border">
+            <Setter Property="Background" Value="#11FFFFFF"/>
+            <Setter Property="CornerRadius" Value="8"/>
+            <Setter Property="BorderBrush" Value="#22FFFFFF"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+    </Window.Resources>
+    <Border Background="{StaticResource GlassBackground}"
+    CornerRadius="16"
+    BorderBrush="{StaticResource BorderHighlight}"
+    BorderThickness="1"
+    Padding="20"
+    MinWidth="300">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <ItemsControl ItemsSource="{Binding CreatorSections}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBox Grid.Row="0"
+                                 Text="{Binding Title, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 FontSize="20"
+                                 FontWeight="Bold"
+                                 Foreground="White"
+                                 Background="#22000000"
+                                 BorderBrush="#55FFFFFF"
+                                 Margin="10,0,10,10"
+                                 Padding="8,4"/>
+
+                            <Border Grid.Row="1" Style="{StaticResource CreatorSectionStyle}" Padding="10">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="56"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="64"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <materialIcons:MaterialIcon Grid.Column="0"
+                                                            Grid.Row="0"
+                                                            Grid.RowSpan="2"
+                                                            Kind="{Binding IconKind, FallbackValue=Settings}"
+                                                            Width="32"
+                                                            Height="32"
+                                                            Foreground="#EEEEEE"
+                                                            VerticalAlignment="Top"
+                                                            Margin="10,8,0,0"/>
+
+                                    <TextBox Grid.Column="1"
+                                         Grid.Row="0"
+                                         Text="{Binding SettingTitle, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                         FontSize="16"
+                                         FontWeight="Bold"
+                                         Foreground="White"
+                                         Background="#22000000"
+                                         BorderBrush="#55FFFFFF"
+                                         Margin="10,0,10,8"
+                                         Padding="8,4"/>
+
+                                    <TextBox Grid.Column="1"
+                                         Grid.Row="1"
+                                         Text="{Binding SettingDescription, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                         Foreground="AliceBlue"
+                                         Background="#22000000"
+                                         BorderBrush="#55FFFFFF"
+                                         Margin="10,0,10,0"
+                                         Padding="8,6"
+                                         TextWrapping="Wrap"
+                                         AcceptsReturn="True"
+                                         MinHeight="70"/>
+
+                                    <StackPanel Grid.Column="2" Grid.Row="0" Grid.RowSpan="2" VerticalAlignment="Top" Margin="0,0,0,0">
+                                        <CheckBox Content="Turn on"
+                                              IsChecked="{Binding IsEnabled, Mode=TwoWay}"
+                                              Foreground="White"
+                                              Margin="0,6,0,10"/>
+                                        <TextBlock Text="Ikona"
+                                               Foreground="AliceBlue"
+                                               FontSize="11"
+                                               Margin="0,0,0,4"/>
+                                        <TextBox Text="{Binding IconKind, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                             Foreground="White"
+                                             Background="#22000000"
+                                             BorderBrush="#55FFFFFF"
+                                             Width="54"
+                                             Padding="4,2"/>
+                                    </StackPanel>
+                                </Grid>
+                            </Border>
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+>>>>>>> Stashed changes
     </Border>
 </Window>

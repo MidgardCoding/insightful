@@ -2,6 +2,11 @@ using Insightful.Backend;
 using Insightful.Model;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+<<<<<<< Updated upstream
+=======
+using System.Windows;
+using System.Windows.Input;
+>>>>>>> Stashed changes
 
 namespace Insightful.ViewModel;
 

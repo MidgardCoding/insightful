@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4GjzW54E1dU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nonco\\Documents\\GitHub\\insightful\\Insightful\\Insightful.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nonco\\.nuget\\packages\\material.icons\\3.0.2\\material.icons.3.0.2.nupkg.sha512",
+    "C:\\Users\\nonco\\.nuget\\packages\\material.icons.wpf\\3.0.2\\material.icons.wpf.3.0.2.nupkg.sha512",
+    "C:\\Users\\nonco\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

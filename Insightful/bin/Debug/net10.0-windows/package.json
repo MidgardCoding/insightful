@@ -1,0 +1,399 @@
+{
+  "apps": [
+    {
+      "AppTitle": "Task Manager",
+      "Shortcuts": [
+        {
+          "Name": "Open",
+          "KeyCombination": "Ctrl + Shift + Esc"
+        },
+        {
+          "Name": "Switch to Details",
+          "KeyCombination": "Ctrl + Tab"
+        },
+        {
+          "Name": "End Task",
+          "KeyCombination": "Del"
+        },
+        {
+          "Name": "Search process",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppSrc": "C:\\WINDOWS\\system32\\Taskmgr.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "Process and performance view",
+          "NoteContent": "Monitor CPU, memory, disk and network usage in real time."
+        },
+        {
+          "NoteTitle": "Manage startup items",
+          "NoteContent": "Enable/disable startup apps and see their impact on boot time."
+        }
+      ]
+    },
+    {
+      "AppTitle": "File Explorer",
+      "Shortcuts": [
+        {
+          "Name": "Open new window",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "Go up one level",
+          "KeyCombination": "Alt + ↑"
+        },
+        {
+          "Name": "Refresh",
+          "KeyCombination": "F5"
+        },
+        {
+          "Name": "Rename",
+          "KeyCombination": "F2"
+        }
+      ],
+      "AppSrc": "C:\\WINDOWS\\explorer.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "File and folder navigation",
+          "NoteContent": "Manage files, access drives, network locations and quick access."
+        },
+        {
+          "NoteTitle": "Preview and details",
+          "NoteContent": "Use preview pane and details pane to inspect files quickly."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Settings",
+      "Shortcuts": [
+        {
+          "Name": "Open Settings",
+          "KeyCombination": "Win + I"
+        },
+        {
+          "Name": "Search settings",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppSrc": "ms-settings:",
+      "AppNotes": [
+        {
+          "NoteTitle": "System configuration hub",
+          "NoteContent": "Adjust system, devices, network, personalization and update options."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Control Panel",
+      "Shortcuts": [
+        {
+          "Name": "Open Control Panel",
+          "KeyCombination": "Win + R, control"
+        },
+        {
+          "Name": "Search",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppSrc": "C:\\WINDOWS\\System32\\control.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "Legacy system tools",
+          "NoteContent": "Access classic administrative tools and detailed configuration options."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Edge",
+      "Shortcuts": [
+        {
+          "Name": "New window",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "New tab",
+          "KeyCombination": "Ctrl + T"
+        },
+        {
+          "Name": "Reopen closed tab",
+          "KeyCombination": "Ctrl + Shift + T"
+        },
+        {
+          "Name": "Close tab",
+          "KeyCombination": "Ctrl + W"
+        }
+      ],
+      "AppSrc": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "Modern web browser",
+          "NoteContent": "Chromium-based browser with collections, profiles and syncing."
+        },
+        {
+          "NoteTitle": "Privacy and performance",
+          "NoteContent": "Tracking prevention, sleeping tabs and built-in PDF reader."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Google Chrome",
+      "Shortcuts": [
+        {
+          "Name": "New tab",
+          "KeyCombination": "Ctrl + T"
+        },
+        {
+          "Name": "Incognito",
+          "KeyCombination": "Ctrl + Shift + N"
+        },
+        {
+          "Name": "Open DevTools",
+          "KeyCombination": "Ctrl + Shift + I"
+        },
+        {
+          "Name": "Close tab",
+          "KeyCombination": "Ctrl + W"
+        }
+      ],
+      "AppSrc": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "Widely used browser",
+          "NoteContent": "Fast browsing, extensive extensions and profile syncing."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Office Word",
+      "Shortcuts": [
+        {
+          "Name": "Save",
+          "KeyCombination": "Ctrl + S"
+        },
+        {
+          "Name": "Bold",
+          "KeyCombination": "Ctrl + B"
+        },
+        {
+          "Name": "Find",
+          "KeyCombination": "Ctrl + F"
+        },
+        {
+          "Name": "Close",
+          "KeyCombination": "Alt + F4"
+        }
+      ],
+      "AppSrc": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+      "AppNotes": [
+        {
+          "NoteTitle": "Feature-rich text editor",
+          "NoteContent": "Advanced formatting, styles, templates and collaboration tools."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Office Excel",
+      "Shortcuts": [
+        {
+          "Name": "New workbook",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "Autosum",
+          "KeyCombination": "Alt + ="
+        },
+        {
+          "Name": "Insert row",
+          "KeyCombination": "Ctrl + Shift + +"
+        },
+        {
+          "Name": "Find",
+          "KeyCombination": "Ctrl + F"
+        }
+      ],
+      "AppSrc": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+      "AppNotes": [
+        {
+          "NoteTitle": "Spreadsheet calculations",
+          "NoteContent": "Formulas, pivot tables, charts and data analysis features."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Microsoft Outlook",
+      "Shortcuts": [
+        {
+          "Name": "New email",
+          "KeyCombination": "Ctrl + N"
+        },
+        {
+          "Name": "Send",
+          "KeyCombination": "Ctrl + Enter"
+        },
+        {
+          "Name": "Reply",
+          "KeyCombination": "Ctrl + R"
+        },
+        {
+          "Name": "Search mail",
+          "KeyCombination": "Ctrl + E"
+        }
+      ],
+      "AppSrc": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE",
+      "AppNotes": [
+        {
+          "NoteTitle": "Email and calendar client",
+          "NoteContent": "Manage email, calendar, contacts and tasks in one app."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Windows Terminal",
+      "Shortcuts": [
+        {
+          "Name": "New tab",
+          "KeyCombination": "Ctrl + Shift + T"
+        },
+        {
+          "Name": "Split pane",
+          "KeyCombination": "Alt + Shift + D"
+        },
+        {
+          "Name": "Open settings",
+          "KeyCombination": "Ctrl + ,"
+        }
+      ],
+      "AppSrc": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\WindowsTerminal.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "Tabbed command-line interface",
+          "NoteContent": "Supports PowerShell, Command Prompt, WSL and customization."
+        }
+      ]
+    },
+    {
+      "AppTitle": "PowerShell",
+      "Shortcuts": [
+        {
+          "Name": "Run as admin",
+          "KeyCombination": "Win + X, A"
+        },
+        {
+          "Name": "Autocomplete",
+          "KeyCombination": "Tab"
+        },
+        {
+          "Name": "Clear screen",
+          "KeyCombination": "Ctrl + L"
+        }
+      ],
+      "AppSrc": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "Advanced scripting shell",
+          "NoteContent": "Cmdlets, scripting, automation and system administration."
+        }
+      ]
+    },
+    {
+      "AppTitle": "Command Prompt",
+      "Shortcuts": [
+        {
+          "Name": "Run as admin",
+          "KeyCombination": "Win + X, A"
+        },
+        {
+          "Name": "Paste",
+          "KeyCombination": "Ctrl + V"
+        },
+        {
+          "Name": "Autocomplete",
+          "KeyCombination": "Tab"
+        }
+      ],
+      "AppSrc": "C:\\WINDOWS\\system32\\cmd.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "Classic console",
+          "NoteContent": "Basic command-line utilities and legacy scripts support."
+        }
+      ]
+    },
+    {
+      "AppTitle": "adfgdagafds",
+      "Shortcuts": [
+        {
+          "Name": "agsdfgadsfg",
+          "KeyCombination": "adfgadsfgsdsdg"
+        },
+        {
+          "Name": "fdgad",
+          "KeyCombination": "dfgadfgafdgagf"
+        },
+        {
+          "Name": "asdfgadg",
+          "KeyCombination": "dfgafgadsgda"
+        }
+      ],
+      "AppSrc": "C:\\Users\\nonco\\Downloads\\CustomRP.1.19.2.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "adfgadsfgad",
+          "NoteContent": "dfagdgf"
+        }
+      ]
+    },
+    {
+      "AppTitle": "adfgdagafds",
+      "Shortcuts": [
+        {
+          "Name": "agsdfgadsfg",
+          "KeyCombination": "adfgadsfgsdsdg"
+        },
+        {
+          "Name": "fdgad",
+          "KeyCombination": "dfgadfgafdgagf"
+        },
+        {
+          "Name": "asdfgadg",
+          "KeyCombination": "dfgafgadsgda"
+        }
+      ],
+      "AppSrc": "C:\\Users\\nonco\\Downloads\\CustomRP.1.19.2.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "adfgadsfgad",
+          "NoteContent": "dfagdgf"
+        }
+      ]
+    },
+    {
+      "AppTitle": "cmd",
+      "Shortcuts": [
+        {
+          "Name": "dhazfdgh",
+          "KeyCombination": "cgzbnfgnv"
+        }
+      ],
+      "AppSrc": "C:\\Windows\\System32\\cmd.exe",
+      "AppNotes": [
+        {
+          "NoteTitle": "gnbzgbnhzg",
+          "NoteContent": "gnbzngv"
+        }
+      ]
+    }
+  ],
+  "default": {
+    "AppTitle": "No HUD for this application",
+    "Shortcuts": [
+      {
+        "Name": "Copy",
+        "KeyCombination": "Ctrl+C"
+      }
+    ],
+    "AppSrc": "",
+    "AppNotes": null
+  }
+}

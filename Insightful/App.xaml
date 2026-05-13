@@ -7,6 +7,10 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Styles/ButtonStyles.xaml"/>
+<<<<<<< Updated upstream
+=======
+                <ResourceDictionary Source="Styles/TextBoxStyles.xaml"/>
+>>>>>>> Stashed changes
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>

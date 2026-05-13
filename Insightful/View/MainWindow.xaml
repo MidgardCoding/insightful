@@ -12,8 +12,13 @@
         ShowInTaskbar="False"
         SizeToContent="Height"
         Background="Transparent"
+<<<<<<< Updated upstream
         AllowsTransparency="True"
         MouseLeftButtonDown="Window_MouseDown"
+=======
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        AllowsTransparency="True"
+>>>>>>> Stashed changes
         Height="200" Width="300">
     <Window.Resources>
         <SolidColorBrush x:Key="GlassBackground" Color="#AA202020"/>

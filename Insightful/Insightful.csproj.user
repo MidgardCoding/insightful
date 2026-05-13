@@ -2,10 +2,25 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+<<<<<<< Updated upstream
     <Compile Update="View\NoteWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+=======
+    <Compile Update="View\MergeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\NoteWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PackageCreatorWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+>>>>>>> Stashed changes
     <Compile Update="View\SettingsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\CreatorSection.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

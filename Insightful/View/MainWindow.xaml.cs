@@ -44,7 +44,11 @@ namespace Insightful.View
 
         private void SettingsBorder_MouseDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
+<<<<<<< Updated upstream
             new SettingsWindow().ShowDialog();
+=======
+            new PackageCreatorWindow().ShowDialog();
+>>>>>>> Stashed changes
         }
 
         private void Border_MouseDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
@@ -52,7 +56,11 @@ namespace Insightful.View
             new NoteWindow(_viewModel.CurrentWindowData).ShowDialog();
         }
 
+<<<<<<< Updated upstream
         private void Window_MouseDown(object sender, MouseButtonEventArgs e)
+=======
+        private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+>>>>>>> Stashed changes
         {
             DragMove();
         }
